@@ -14,12 +14,12 @@ git init 初始化当前目录
 git clone https://github.com/zjg1979/ITL
 
 ## 4.提交更新 
-git status
-git add readme.md 或者 git add .
-git diff  
-git commit -a
-git push
-注：commit <-- stage <-- modify
+git status  
+git add readme.md 或者 git add .  
+git diff    
+git commit -a  
+git push  
+注：commit <-- stage <-- modify  
 
 
 ## 5.提交历史查看
