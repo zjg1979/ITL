@@ -7,9 +7,9 @@ mkdir
 rmdir
 rm  
 
-
-
 chmod 777 file
+
+mount/umount 挂载设备
 
 ## 安装
 yum
@@ -30,6 +30,16 @@ service start stop restart
 chkconfig --list 
 chkconfig service on/off  
 
+# 源码安装
+wget 
+tar zxvf file
+./configure
+make & make install
+
+#网络命令
+netstat
+ifconfig
+iptables
 
 ## 开关机
 shutdown  
