@@ -5,6 +5,8 @@
 ## 文件操作
 mkdir
 
+chmod 777 file
+
 ## 安装
 yum
 安装  install  
