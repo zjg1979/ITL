@@ -23,7 +23,18 @@ git push
 
 
 ## 5.提交历史查看
-git log --stat
+git log --stat  
+
+## 6.舍弃本地代码，重新远程拉取
+git fetch --all  
+git reset --hard origin/master  
+git fetch
+
+## 7.保留本地更改，终止合并，重新合并，重新拉取
+git merge --abort
+git reset --merge
+git pull
+
 
 
 
