@@ -7,13 +7,15 @@ mkdir
 
 ## 安装
 yum
-安装  install
-更新和升级   update
-查找和显示   info list
-删除程序  remove
+安装  install  
+更新和升级   update  
+查找和显示   info list  
+删除程序  remove  
 
 
 rpm
 
 ## web操作
+
+## 开关机
 
