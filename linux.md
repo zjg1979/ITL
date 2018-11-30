@@ -25,11 +25,19 @@ rpm
 删除程序
 ## web操作
 
+## 服务  
+service start stop restart
+chkconfig --list 
+chkconfig service on/off  
+
+
 ## 开关机
 shutdown  
 poweroff  
 init  
 reboot  
 halt  
+
+
 
 
