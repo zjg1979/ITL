@@ -31,9 +31,9 @@ git reset --hard origin/master
 git fetch
 
 ## 7.保留本地更改，终止合并，重新合并，重新拉取
-git merge --abort
-git reset --merge
-git pull
+git merge --abort  
+git reset --merge  
+git pull  
 
 
 
