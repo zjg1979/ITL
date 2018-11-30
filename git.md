@@ -24,6 +24,7 @@ git rm
 
 ## 5.提交历史查看
 git log --stat
+测试。。。
 
 
 
