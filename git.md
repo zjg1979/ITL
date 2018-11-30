@@ -18,13 +18,12 @@ git status
 git add readme.md 或者 git add .
 git diff  
 git commit -a
-git rm
+git push
 注：commit <-- stage <-- modify
 
 
 ## 5.提交历史查看
 git log --stat
-测试。。。
 
 
 
