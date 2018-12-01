@@ -9,3 +9,6 @@
 
 ## 自定义协议解析
 - LengthFieldBasedFrameDecoder  [参考1](https://blog.csdn.net/u014801432/article/details/81909902)[参考2](https://www.cnblogs.com/lanqie/p/8268469.html)[参考3](https://www.jianshu.com/p/c90ec659397c)
+
+## 记录日志
+[参考](https://blog.csdn.net/arctan90/article/details/51280797)
