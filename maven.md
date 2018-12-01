@@ -27,4 +27,6 @@
   例如公司mycomm,项目myapp  
   groupid   com.mycom.myapp
   artifactid  myapp-util myapp-domain  myapp-web
+> 增加maven依赖，https://mvnrepository.com/
+
 
