@@ -86,3 +86,5 @@ class TestController {
 }
 
 ```
+
+springboot2 [1to2](https://blog.csdn.net/vqhgWJl9EUB/article/details/81187359)
