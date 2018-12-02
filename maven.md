@@ -33,3 +33,7 @@
 ## 打包
 Maven Build  Goals：
  clean  清除编译，compile  编译，test  编译并测试，install 打包并发送到本地仓库，package 只是打成jar包，并不会发送到本地仓库
+ 
+ mvn clean compile
+mvn install 
+mvn spring-boot:run
