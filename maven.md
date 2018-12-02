@@ -37,3 +37,52 @@ Maven Build  Goals：
  mvn clean compile
 mvn install 
 mvn spring-boot:run
+
+## springboot 构建
+```
+  <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>1.5.3.RELEASE</version>
+        <relativePath />
+   </parent>
+   
+    <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+```
+```
+package com.zjg.water.water_web;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        SpringApplication.run(App.class, args);
+    }
+}
+
+
+```
+```
+package com.zjg.water.water_web;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+class TestController {
+
+	 @RequestMapping("test")
+	    public String test(){
+	        return "test";
+	    }
+}
+
+```
