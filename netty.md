@@ -13,3 +13,7 @@
 ## 记录日志
 [参考](https://blog.csdn.net/arctan90/article/details/51280797)  
 [日志分类](https://zhuanlan.zhihu.com/p/36185173)  
+- 查询日志
+- 慢查询日志
+- 错误日志
+- 二进制日志
