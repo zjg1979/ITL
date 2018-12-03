@@ -17,3 +17,6 @@
 - 慢查询日志
 - 错误日志
 - 二进制日志
+
+## netty源码
+[netty权威指南](https://github.com/wuyinxian124/nettybook2)
