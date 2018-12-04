@@ -8,7 +8,14 @@
 - decode
 
 ## 自定义协议解析
-- LengthFieldBasedFrameDecoder  [参考1](https://blog.csdn.net/u014801432/article/details/81909902)[参考2](https://www.cnblogs.com/lanqie/p/8268469.html)[参考3](https://www.jianshu.com/p/c90ec659397c)
+- LengthFieldBasedFrameDecoder  
+[参考1](https://blog.csdn.net/u014801432/article/details/81909902)    
+[参考2](https://www.cnblogs.com/lanqie/p/8268469.html)  
+[参考3](https://www.jianshu.com/p/c90ec659397c)  
+- lengthFieldOffset: 长度字段的偏差
+- lengthFieldLength: 长度字段占的字节数
+- lengthAdjustment: 添加到长度字段的补偿值
+- initialBytesToStrip: 从解码帧中第一次去除的字节数
 
 ## 记录日志
 [参考](https://blog.csdn.net/arctan90/article/details/51280797)  
