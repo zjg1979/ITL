@@ -88,3 +88,5 @@ class TestController {
 ```
 
 springboot2 [1to2](https://blog.csdn.net/vqhgWJl9EUB/article/details/81187359)
+
+- 创建父子工程 [参考](https://faceghost.com/article/782981)
