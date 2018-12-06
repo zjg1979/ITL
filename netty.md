@@ -28,6 +28,30 @@
 - 慢查询日志
 - 错误日志
 - 二进制日志
+----
+- sl4j + logback  
+```
+ <dependency>  
+    <groupId>org.slf4j</groupId>  
+    <artifactId>slf4j-api</artifactId>  
+    <version>${slf4j.api.version}</version>  
+  </dependency>  
+  
+  <dependency>  
+    <groupId>ch.qos.logback</groupId>  
+    <artifactId>logback-classic</artifactId>  
+    <version>${logback.version}</version>  
+  </dependency>  
+  <dependency>  
+    <groupId>ch.qos.logback</groupId>  
+    <artifactId>logback-core</artifactId>  
+    <version>${logback.version}</version>  
+  </dependency>  
+```  
+[maven 资源文件夹](https://jingyan.baidu.com/album/77b8dc7fb733356174eab6ed.html?picindex=1)  
+[backup.xml无效问题](https://blog.csdn.net/cnwyt/article/details/80462896)
+[log4j重复输出问题](https://blog.csdn.net/chxkyy/article/details/1718487)
+
 
 ## netty源码
 [netty权威指南](https://github.com/wuyinxian124/nettybook2)
