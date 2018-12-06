@@ -59,4 +59,4 @@
 
 ## 编解码过程  
 
-> Write(Object)-->Object.encode --- framedecode-->decode(Object)-->ObjectIn
+> Write(Object)-->Object.encode --- ->decode（可以继承）(Object)-->ObjectIn
