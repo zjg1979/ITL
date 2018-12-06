@@ -60,3 +60,4 @@
 ## 编解码过程  
 
 > Write(Object)-->Object.encode --- ->decode（可以继承）(Object)-->ObjectIn
+[自定义]（https://www.jianshu.com/p/c90ec659397c）
