@@ -61,6 +61,7 @@
 
 > Write(Object)-->Object.encode --- ->decode（可以继承）(Object)-->ObjectIn
 [自定义协议参考](https://www.jianshu.com/p/c90ec659397c)
+[自定义协议](https://www.cnblogs.com/carl10086/p/6195568.html)
 
 ## modbusTcp
 [解释](https://www.cnblogs.com/duanweishi/p/9351916.html)
