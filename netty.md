@@ -70,3 +70,4 @@
 ## 序列化
 [序列化](https://blog.csdn.net/xiaobao5214/article/details/52210152)
 [发送](https://blog.csdn.net/UncleTian/article/details/80172354)
+[存储](http://www.runoob.com/java/java-mysql-connect.html)
