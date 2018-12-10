@@ -67,6 +67,6 @@
 [自定义协议参考](https://www.jianshu.com/p/c90ec659397c)
 [自定义协议](https://www.cnblogs.com/carl10086/p/6195568.html)
 
-## modbusTcp
-[解释](https://www.cnblogs.com/duanweishi/p/9351916.html)
-
+## 序列化
+[序列化](https://blog.csdn.net/xiaobao5214/article/details/52210152)
+[发送](https://blog.csdn.net/UncleTian/article/details/80172354)
