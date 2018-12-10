@@ -38,6 +38,9 @@
     <version>${slf4j.api.version}</version>  
   </dependency>  
   
+## 序列化
+[序列化](https://blog.csdn.net/xiaobao5214/article/details/5221015
+[rabbit发送对象](https://blog.csdn.net/UncleTian/article/details/80172354)
   <dependency>  
     <groupId>ch.qos.logback</groupId>  
     <artifactId>logback-classic</artifactId>  
