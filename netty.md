@@ -72,5 +72,6 @@
 [发送](https://blog.csdn.net/UncleTian/article/details/80172354)
 [存储](http://www.runoob.com/java/java-mysql-connect.html)
 
-##连接池
+## 连接池
 [连接池](https://blog.csdn.net/QQ994406030/article/details/53019678)
+[channel池化]https://www.jianshu.com/p/0c7e1089cc5a
