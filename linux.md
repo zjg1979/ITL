@@ -2,6 +2,10 @@
 [参考](http://www.runoob.com/linux/linux-tutorial.html)
 [yum](https://www.cnblogs.com/liaocheng/p/4243589.html)
 
+# 查看版本
+cat /etc/redhat-release
+
+
 ## 文件操作
 mkdir  
 rmdir
