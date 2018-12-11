@@ -48,6 +48,11 @@ init
 reboot  
 halt  
 
+## 配置java  
+### 查询 rpm -qa | grep java jdk gcj
+### 卸载 rpm -qa | grep java | xargs rpm -e --nodeps
+### 安装 yum list java-1.8*  ,yum install java-1.8.0-openjdk* -y 
+### 检测 java -version
 
 
 
